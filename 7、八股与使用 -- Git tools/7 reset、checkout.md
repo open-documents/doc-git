@@ -78,12 +78,12 @@ HEAD 指向分支 master 的引用（即 HEAD 中的内容为 ref: refs/heads/ma
 
 ）依次执行 git add、git commit，执行第一次提交。
 
-<center class = "half"><img src="D:\NoteWithVersionControl\doc-git\7、八股与使用 -- Git tools\PIC\Pasted image 20240328021802.png" width=50%/><img src="D:\NoteWithVersionControl\doc-git\7、八股与使用 -- Git tools\PIC\Pasted image 20240328021950.png" width=48.7%/></center>
+<center><img src="D:\NoteWithVersionControl\doc-git\7、八股与使用 -- Git tools\PIC\Pasted image 20240328021802.png" width=50%/><img src="D:\NoteWithVersionControl\doc-git\7、八股与使用 -- Git tools\PIC\Pasted image 20240328021950.png" width=48.7%/></center>
 
 此时 `refs/heads/master` 中提交对象指向的快照对象的hash值为 eb43bf8。
 
 ）修改 file.txt（版本记为 v2，用红色表示），再依次执行 git add、git commit。
-<figure class="third"> <img src="D:\NoteWithVersionControl\doc-git\7、八股与使用 -- Git tools\PIC\Pasted image 20240328022536.png" width=32%/> <img src="D:\NoteWithVersionControl\doc-git\7、八股与使用 -- Git tools\PIC\Pasted image 20240328022702.png" width=32%/> <img src="D:\NoteWithVersionControl\doc-git\7、八股与使用 -- Git tools\PIC\Pasted image 20240328022731.png" width=32%/> </figure>
+<figure> <img src="D:\NoteWithVersionControl\doc-git\7、八股与使用 -- Git tools\PIC\Pasted image 20240328022536.png" width=32%/> <img src="D:\NoteWithVersionControl\doc-git\7、八股与使用 -- Git tools\PIC\Pasted image 20240328022702.png" width=32%/> <img src="D:\NoteWithVersionControl\doc-git\7、八股与使用 -- Git tools\PIC\Pasted image 20240328022731.png" width=32%/> </figure>
 此时 `refs/heads/master` 中提交对象指向的快照对象的hash值为 9e5e6a4（发生了变化）。
 
 ）再次修改 file.txt（版本记为 v3，用黄色表示），再依次执行 git add、git commit。

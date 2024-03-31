@@ -2,7 +2,7 @@
 >参考文档 1：https://git-scm.com/docs/git-status
 >参考文档 2：https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 
-在创建了 Git 仓库后，会对工作目录中的文件进行增、删、改的操作，工作目录中的文件的状态会随之发生改变。
+在创建了 Git 仓库后，用户对工作目录中的文件进行增、删、改，工作目录中的文件的状态会随之发生改变。
 
 工作目录中的文件有 2 种状态：tracked、untracked。
 

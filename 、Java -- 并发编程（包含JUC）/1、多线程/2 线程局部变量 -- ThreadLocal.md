@@ -1,9 +1,5 @@
 
-参考文档：
-- 源码
-- https://blog.csdn.net/u022812849/article/details/107513876
 
-ThreadLocal
 
 ## get()
 

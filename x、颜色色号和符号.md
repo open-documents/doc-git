@@ -1,16 +1,17 @@
 
 # 一、颜色色号
 
-|             颜色字体             |  色号  |
-|:--------------------------------:|:------:|
-|  <font color=44cf57>字体</font>  | 44cf57 |
-|  <font color=fb463c>字体</font>  | fb463c |
-|  <font color=d4de71>字体</font>  | d4de71 |
-| <font color="FFC0CB">粉色</font> | FFC0CB |
-| <font color="00E0FF">天蓝</font> | 00E0FF |
-| <font color="FFDD00">浅黄</font> | FFDD00 |
-| <font color="000088">深蓝</font> | 000088 |
-| <font color="FF5500">橙色</font> | FF5500 |
+|                 颜色字体                  |               色号               |
+| :-----------------------------------: | :----------------------------: |
+| <span style="color:#44cf57">字体</span> | `<span style="color:#44cf57">` |
+| <span style="color:#fb463c">字体</span> | `<span style="color:#fb463c">` |
+| <span style="color:#d4de71">字体</span> |             d4de71             |
+| <span style="color:#FFC0CB">粉色</span> |             FFC0CB             |
+| <span style="color:#00E0FF">天蓝</span> |             00E0FF             |
+| <span style="color:#FFDD00">浅黄</span> |             FFDD00             |
+|    <font color="000088">深蓝</font>     |             000088             |
+| <span style="color:#FF5500">橙色</span> |             FF5500             |
+| <span style="color:#ED77B6">字体</span> | `<span style="color:#ED77B6">` |
 
 
 # 二、符号
